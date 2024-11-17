@@ -1,4 +1,8 @@
-# A2
+# About 
+This is a student project made in the course 1DV607 - Object Oriented Analysis and Design using UML.         
+
+The application is built in Java using Gradle and is a console menu application.
+
 
 Assignment 2 - Stuff Lending System
 I (Beata Eriksson, be222gr) have worked alone in this assignment.
