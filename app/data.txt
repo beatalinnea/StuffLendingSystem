@@ -1,0 +1,5 @@
+Lisa:lisa@gmail.com:0701112233
+-GAME:pokemon silver:30
+-SPORT:inlines:50
+Pelle:pelles@hotmail.com:0857168182
+-VEHICLE:nice car:100
